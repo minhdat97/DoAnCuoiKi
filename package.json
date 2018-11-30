@@ -1,0 +1,19 @@
+{
+  "name": "doancuoiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhdat97/DoAnCuoiKi.git"
+  },
+  "author": "Tran Minh Dat - Nguyen Ho Quoc Thinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhdat97/DoAnCuoiKi/issues"
+  },
+  "homepage": "https://github.com/minhdat97/DoAnCuoiKi#readme"
+}
